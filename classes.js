@@ -19,7 +19,7 @@ class Rectangle {
     }
 
     rectangleArea() {
-        return this.width * this.height;
+        return (this.width * this.height);
     }
     printRectDescription() {
         console.log(`This rectangle has a height of ${this.height}, a width of ${this.width} and has a fill color of ${this.color}. Its area amounts to ${this.rectangleArea()}.`);
