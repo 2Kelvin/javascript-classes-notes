@@ -37,5 +37,3 @@ console.log(myRectangle2.rectangleArea());
 
 myRectangle1.printRectDescription();
 myRectangle2.printRectDescription();
-
-// GETTERS & SETTERS
